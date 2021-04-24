@@ -323,4 +323,4 @@ async def vote(ctx, num=None):
 		if not users[ctx.author.id]:
 			rooms.pop(c, None)
 
-client.run("ODEzNzQwMDM5MTcwMjkzODIx.YDTsdw.og44tawODftIRkVUpamFe8Fx__Q")
+client.run("ODEzNzQwMDM5MTcwMjkzODIx.YDTsdw.qrsdiLvqtqAY-bTpCWW98il6AS0")
