@@ -26,7 +26,6 @@ javascripthon==0.11
 jedi==0.17.0
 jeepney==0.6.0
 keyring==21.8.0
-Kivy==1.11.1
 lazy-object-proxy==1.4.3
 lockfile==0.12.2
 macropy3==1.1.0b2
